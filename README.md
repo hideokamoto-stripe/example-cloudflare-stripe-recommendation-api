@@ -1,8 +1,3 @@
-```
-npm install
-npm run dev
-```
+# Example application to create a product recommendation API ( Stripe & Cloudflare )
 
-```
-npm run deploy
-```
+https://developers.cloudflare.com/developer-spotlight/tutorials/creating-a-recommendation-api/
